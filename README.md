@@ -26,7 +26,7 @@ Fique à vontade para navegar pelo conteúdo, deixar sugestões ou trocar ideias
 
 <div align="center">
 <a href="https://github.com/Nanda1509">
-  <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=nanda1509](https://github.com/Nanda1509)&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda1509locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nanda1509&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda1509&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </a>
 </div>
